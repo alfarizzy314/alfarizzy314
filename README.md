@@ -11,24 +11,14 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=alparizzy.alparizzy&"  />
-</div>
-
-###
-
 <h1 data-importer="text" align="center">Hey there, I'm Muhammad Alfarizi 👋</h1>
-Physics graduate (B.Sc.) moving into data science. My physics background
+I'm a Physics graduate (B.Sc.) moving into data science. My physics background
 trained me to build models, test assumptions, and report uncertainty. Now I
 apply the same habits to data analysis and forecasting in Python.
 
 ###
 
 <h3 data-importer="text" align="left">👩‍💻  About Me</h3>
-
-###
-
-<p data-importer="text" align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
