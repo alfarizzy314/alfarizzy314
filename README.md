@@ -12,13 +12,13 @@
 ###
 
 <h1 data-importer="text" align="center">Hey there, I'm Muhammad Alfarizi 👋</h1>
-I'm a Physics graduate (B.Sc.) moving into data science. My physics background
-trained me to build models, test assumptions, and report uncertainty. Now I
-apply the same habits to data analysis and forecasting in Python.
 
 ###
 
 <h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+I'm a Physics graduate (B.Sc.) moving into data science. My physics background
+trained me to build models, test assumptions, and report uncertainty. Now I
+apply the same habits to data analysis and forecasting in Python.
 
 ###
 
