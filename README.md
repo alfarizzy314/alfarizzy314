@@ -5,8 +5,12 @@
 ###
 
 <div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="mailto:alfa48296@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://twitter.com/_alparizzy">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  </a>
 </div>
 
 ###
@@ -44,6 +48,10 @@ apply the same habits to data analysis and forecasting in Python.
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/alfarizzy314/alfarizzy314/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfarizzy314/alfarizzy314/snake-output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfarizzy314/alfarizzy314/snake-output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/alfarizzy314/alfarizzy314/snake-output/snake.svg" />
+</picture>
 
 ###
