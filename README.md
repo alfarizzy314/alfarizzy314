@@ -17,7 +17,10 @@
 
 ###
 
-<h1 data-importer="text" align="center">hey there 👋</h1>
+<h1 data-importer="text" align="center">Hey there, I'm Muhammad Alfarizi 👋</h1>
+Physics graduate (B.Sc.) moving into data science. My physics background
+trained me to build models, test assumptions, and report uncertainty. Now I
+apply the same habits to data analysis and forecasting in Python.
 
 ###
 
@@ -47,16 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=alparizzy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
