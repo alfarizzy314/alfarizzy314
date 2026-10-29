@@ -44,6 +44,6 @@ apply the same habits to data analysis and forecasting in Python.
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/alparizzy/alparizzy/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/alfarizzy314/alfarizzy314/snake-output/snake.svg" alt="Snake animation" />
 
 ###
